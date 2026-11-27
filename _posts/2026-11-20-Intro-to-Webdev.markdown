@@ -1,11 +1,12 @@
 ---
-layout: post
+layout: posts
 title:  "Intro to Webdev"
-date:   2026-11-21 11:56:00 +1100
+date:   2026-11-20 11:56:00 +1100
 categories: jekyll update
 ---
-## *Building a PC and Starting a Static Blog*
-  
+## *Building a PC and Starting a Static Blog; take four at running a blog; and this time going open-source with it.*
+
+
 Over the last couple of weeks I have taken a couple of tech deep dives. Across this journey, I have scratched some creative itches, and have also further cultivated what might be called my ‘cyber sovereignty’.   
   
 Last week I spent nearly all of my spare time researching and assembling a relatively major upgrade to my home PC. (My graphics card went unchanged, but my cpu has over doubled in speed.) Truth be told, a large portion of this project was getting the aesthetics right, which itself included mostly cable management inside my Lian Li Dan A3 case; I wanted everything to look nice when peering through my fancy tempered glass side. I would say that function was still very much my top priority, but even the rather superficial aspect of working on the visuals of my workspace was highly rewarding in and of itself. I think it's important to curate a cosy space to create. 

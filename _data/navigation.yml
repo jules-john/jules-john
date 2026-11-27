@@ -1,0 +1,16 @@
+
+main:
+  - title: "Home"
+    url: /
+
+  - title: "About"
+    url: /about/
+
+  - title: "Projects"
+    url: /projects/
+
+  - title: "AI Manifesto"
+    url: /year-archive/
+
+  - title: "Contact"
+    url: /contact/

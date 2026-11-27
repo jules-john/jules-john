@@ -22,9 +22,15 @@ github_username:  jules-john
 
 # Build settings
 markdown: kramdown
-theme: minima
+
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
+
+remote_theme: "mmistakes/minimal-mistakes@4.28.1" 
+minimal_mistakes_skin: "sunrise" 
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -37,3 +43,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
